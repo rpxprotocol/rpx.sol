@@ -721,7 +721,7 @@ contract RockPaperX is Context, IERC20, Ownable {
     uint256 public _liquidityFee = 2;
     uint256 private _previousLiquidityFee = _liquidityFee;
 
-    address public _rpxFoundation = 0x0a0A9dD66c64dD92DD0d5130D8762f4f52a39d35;
+    address public _rpxFoundation = 0x1d9DfE26b08C1dfD36A889eE0ACf0584af79a64f;
     uint256 public _rpxFee = 3;
     uint256 private _previousRpxFee = _rpxFee;
     
