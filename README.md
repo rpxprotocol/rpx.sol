@@ -1,4 +1,1 @@
-#RPX features:
-2% fee automatically add to the liquidity pool
-5% fee automatically distribute to all holders
-3% will be given to RPX Foundation
+RPX is designed to inject gamification in the current blockchain ecosystem by starting with the commonly known game of rock, paper & scissors. The goal of the project is to rapidly build a game-based token that users and owners can engage with as a means of entertainment while rewarding the user with economic reward and engagement based on the underlying value of the asset (RPX Token).
