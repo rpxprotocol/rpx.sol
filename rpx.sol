@@ -721,7 +721,7 @@ contract RockPaperX is Context, IERC20, Ownable {
     uint256 public _liquidityFee = 2;
     uint256 private _previousLiquidityFee = _liquidityFee;
 
-    address public _rpxFoundation = 0x1d9DfE26b08C1dfD36A889eE0ACf0584af79a64f;
+    address public _rpxFoundation = 0x0745aBb4895f528d426d8F14646c85fc58452880;
     uint256 public _rpxFee = 3;
     uint256 private _previousRpxFee = _rpxFee;
     
@@ -1200,8 +1200,5 @@ contract RockPaperX is Context, IERC20, Ownable {
         _reflectFee(rFee, tFee);
         emit Transfer(sender, recipient, tTransferAmount);
     }
-
-
-    
 
 }
